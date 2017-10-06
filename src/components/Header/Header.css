@@ -1,0 +1,29 @@
+.App-header{
+    width: 100%;
+    height: 84px;
+    display: inline-flex;
+    align-items: center;
+    text-align: center;
+    background: greenyellow;
+}
+
+.App-logo{
+    width: 100px;
+    height: 28px;
+    margin:0px 11.1px 0px 124px;
+}
+
+.App-title{
+    color: #888;
+    font-size: 18px;
+    
+}
+
+.Button-red{
+    width: 120px;
+    height: 36px;
+    margin-left: 654px;
+    border-radius: 4px;
+    background: #fff;
+      
+}

@@ -1,0 +1,57 @@
+{
+    "module": "Nav",
+    "list": [
+        {
+            "title": "博客概览",
+            "level": 1,
+            "children": []
+        },
+        {
+            "title": "内容",
+            "level": 0,
+            "children": [
+                {
+                    "title": "博客管理",
+                    "level": 1,
+                    "children": []
+                },
+                {
+                    "title": "专栏管理",
+                    "level": 1,
+                    "children": []
+                },
+                {
+                    "title": "评论管理",
+                    "level": 1,
+                    "children": []
+                },
+                {
+                    "title": "博客搬家",
+                    "level": 1,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "设置",
+            "level": 0,
+            "children": [
+                {
+                    "title": "博客设置",
+                    "level": 1,
+                    "children": []
+                },
+                {
+                    "title": "公众号设置",
+                    "level": 1,
+                    "children": []
+                },
+                {
+                    "title": "账号设置",
+                    "level": 1,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

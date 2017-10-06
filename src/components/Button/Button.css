@@ -1,0 +1,13 @@
+.Button{
+    width: 120px;
+    height: 36px;
+    line-height: 36px;
+    background-color: #fff;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.Button-red{
+    color: #CA0C16;
+    border: 1px solid #DF3434;
+}
