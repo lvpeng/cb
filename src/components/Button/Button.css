@@ -1,13 +1,16 @@
-.Button{
-    width: 120px;
-    height: 36px;
-    line-height: 36px;
+.button{
+    display: inline-block;
+    width: 8.3vw;
+    height: 2.6vh;
     background-color: #fff;
     border-radius: 4px;
     text-align: center;
+    font-size: 1.25vw;
+    white-space: nowrap;
 }
 
-.Button-red{
+.button-red{
     color: #CA0C16;
     border: 1px solid #DF3434;
+    
 }

@@ -1,0 +1,7 @@
+.aside{
+    width: auto;
+    height: 100%;
+    padding: 30px 30px 145px;
+    display: inline-block;
+    background: blue;
+}

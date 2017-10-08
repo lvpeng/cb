@@ -1,29 +1,37 @@
-.App-header{
-    width: 100%;
-    height: 84px;
-    display: inline-flex;
+.header{
+    padding: 12px 120px;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
-    text-align: center;
     background: greenyellow;
 }
-
-.App-logo{
-    width: 100px;
-    height: 28px;
-    margin:0px 11.1px 0px 124px;
+ .header-left{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
-.App-title{
+.header-left-logo{
+    width: 80%;
+    height: auto;
+    padding-right: 10px;
+}
+
+.header-left-title{
+    white-space: nowrap;
+    font-size: 1.25vw;
     color: #888;
-    font-size: 18px;
-    
 }
 
-.Button-red{
-    width: 120px;
-    height: 36px;
-    margin-left: 654px;
-    border-radius: 4px;
-    background: #fff;
-      
+.header-right{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 }
+
+/* For mobile phones: */
+/* @media only screen and (max-width: 768px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+} */

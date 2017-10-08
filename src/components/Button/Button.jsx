@@ -5,10 +5,10 @@ import Icon from '../Icon/Icon.jsx';
 class Button extends React.Component {
     render(){
         return (
-            <button className="Button Button-red" style={{marginLeft: "654px"}}>
+            <a href="#" className="button button-red">
                 <Icon icon={this.props.icon}/>
                 <span>{this.props.text}</span>
-            </button>
+            </a>
         )
     }
 }

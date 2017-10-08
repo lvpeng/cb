@@ -1,0 +1,9 @@
+.main{
+  width: 100%;
+  height: 1060px;
+  border: 1px solid #E4EBF4;
+  padding: 28px 120px 190px;
+  display: flex;
+  flex-direction: row;
+  background: yellow;
+}
