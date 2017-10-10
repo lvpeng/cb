@@ -5,7 +5,7 @@ class Aside extends React.Component{
     render(){
         return (
             <div className="aside">
-
+                  alide
             </div>
         )
     }
