@@ -6,7 +6,7 @@ import Aside from '../Aside/Aside.jsx';
 class Main extends React.Component{
     render(){ 
         return (
-            <div className="row main">
+            <div className="main">
                 <Nav />
                 <Aside />
             </div>

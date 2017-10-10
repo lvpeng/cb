@@ -1,9 +1,11 @@
 .header{
-    padding: 12px 120px;
+    background: rebeccapurple;
+    width: 83.3%;
+    margin: 0em 8.3%;  
+    padding: 0.75em 0em;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: greenyellow;
 }
  .header-left{
     display: flex;
@@ -28,10 +30,3 @@
     align-items: center;
     justify-content: flex-start;
 }
-
-/* For mobile phones: */
-/* @media only screen and (max-width: 768px) {
-    [class*="col-"] {
-        width: 100%;
-    }
-} */

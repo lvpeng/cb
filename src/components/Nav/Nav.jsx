@@ -5,8 +5,15 @@ class Nav extends React.Component{
     render(){
         return (
             <nav className="nav">
-                <ul>
-                </ul>
+                <p>nav</p>
+                <p>nav</p>
+                <p>nav</p>
+                <p>nav</p>
+                <p>nav</p>
+                <p>nav</p>
+                <p>nav</p>
+                <p>nav</p>
+                <p>nav</p>
             </nav>
         )
     }
